@@ -1,5 +1,5 @@
 Nombre: José Antonio Reina Montes
-Herramientas: https://pidoco.com/en
+Herramientas: https://pidoco.com/en http://www.gimp.org.es/
 Descripción: 
 Se muestra un diseño base, con un logo , una barra para buscar artículos, noticias, juegos...
 también hay un login de usuariospara poder comentar o hablar por el foro, y de cabeza de cartel tenemos las noticias
