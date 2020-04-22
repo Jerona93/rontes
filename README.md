@@ -1,4 +1,3 @@
-# rontes
 Trabajo ED 
 Nombre de la aplicación: RONTES
 		*Integrantes del grupo: Jesús Romero Navarro y José Antonio Reina Montes
