@@ -1,0 +1,7 @@
+Nombre: José Antonio Reina Montes
+Herramientas: https://pidoco.com/en
+Descripción: 
+Se muestra un diseño base, con un logo , una barra para buscar artículos, noticias, juegos...
+también hay un login de usuariospara poder comentar o hablar por el foro, y de cabeza de cartel tenemos las noticias
+más destacadas, el vídeo más visto o destacado , pequeña vista al foro y si algúna empresa
+nos promociona el típico anuncio de juegos.	     
