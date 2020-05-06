@@ -1,5 +1,8 @@
 ﻿Jesús Romero Navarro
 
+Captura mockup grupal
+![enter image description here](https://i.imgur.com/JAUTSya.jpg)
+
 Captura búsqueda
 ![enter image description here](https://i.imgur.com/MkhNiu5.jpg)
 Descripcion de la imagen de arriba:
